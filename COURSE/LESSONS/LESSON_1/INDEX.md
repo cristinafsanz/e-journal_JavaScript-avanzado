@@ -1,15 +1,14 @@
 # Lesson 1: Getting Started
 
-* 🧠 [Concepts](./LESSONS/LESSON_1/CONCEPTS)
-  * [Tipos de datos](./LESSONS/LESSON_1/1_Tipos de datos.md)
+* 🧠 [Concepts](CONCEPTS)
+  * [Tipos de datos](CONCEPTS/Tipos_de_datos.md)
 
-* 📝 [Activities](./LESSONS/LESSON_1/ACTIVITIES)
-  * [Activity Name](./LESSONS/LESSON_1/1_Activity_Name.md)
+* ✏️ [Exercises](EXERCISES)
+  * [Objects](EXERCISES/1.objects.js)
+  * [Count calls](EXERCISES/2.count-calls.js)
+  * [Unique numbers](EXERCISES/3.unique-numbers.js)
+  * [Memory leak](EXERCISES/4.memory-leak.js)
+  * [Time machine](EXERCISES/5.time-machine.js)
+  * [Interoperability](EXERCISES/6.interoperability.js)
 
-* 📎 [Attachments](./LESSONS/LESSON_1/ACTIVITIES)
-
-* ✏️ [Exercises](./LESSONS/LESSON_1/EXERCISES)
-  * [Exercise Name](./LESSONS/LESSON_1/1_Exercise_Name.md)
-
-* 📌 [Notes](./LESSONS/LESSON_2/NOTES.md)
-* 🔗 [Resources](./LESSONS/LESSON_1/RESOURCES.md)
+* 🔗 [Resources](RESOURCES.md)
