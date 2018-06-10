@@ -1,4 +1,4 @@
-# Lesson 1: Getting Started
+# Lesson 1: Tipos de datos
 
 * 🧠 [Concepts](CONCEPTS)
   * [Tipos de datos](CONCEPTS/Tipos_de_datos.md)
