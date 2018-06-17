@@ -1,4 +1,4 @@
-# Lesson 1: Asincronía
+# Lesson 2: Asincronía
 
 * 🧠 [Concepts](CONCEPTS)
   * [Asincronía](CONCEPTS/Asincronia.md)
