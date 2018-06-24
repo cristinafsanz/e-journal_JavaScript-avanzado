@@ -2,11 +2,15 @@
 
 Recursos útiles (fuera del curso):
 
+- [Impresionante JavaScript](https://github.com/sergiodxa/impresionante-javascript)
+
 - [Cheat Sheet JS (Juan del Río)](https://www.paradigmadigital.com/wp-content/uploads/2018/02/JSCheatsheetv1.1.pdf)
 
 - [How to code in JS](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
 - [Short circuit evaluation](https://www.jstips.co/en/javascript/short-circuit-evaluation-in-js/)
+
+- [Understanding Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) 
 
 - [ES6 Syntax(Tania Rascia)](https://www.taniarascia.com/es6-syntax-and-feature-overview/)
 
@@ -47,6 +51,10 @@ Recursos útiles (fuera del curso):
 - [Jugando con los arrays (Elena Cerezo)](https://medium.com/@elenacerezo83/jugando-con-los-arrays-bd8a2d73cf18)
 
 - [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+
+- [Looping through JS Objects](https://zellwk.com/blog/looping-through-js-objects/)
+
+- [BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
 - Copia superficial y profunda de un array (la profunda no vale para todos los casos):
 
