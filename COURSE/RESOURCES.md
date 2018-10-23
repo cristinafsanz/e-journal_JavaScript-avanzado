@@ -1,12 +1,16 @@
 # Recursos
 
-Recursos útiles (fuera del curso):
+Recursos útiles (encontrados fuera del curso):
 
 - [Impresionante JavaScript](https://github.com/sergiodxa/impresionante-javascript)
+
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 
 - [Cheat Sheet JS (Juan del Río)](https://www.paradigmadigital.com/wp-content/uploads/2018/02/JSCheatsheetv1.1.pdf)
 
 - [How to code in JS](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
+
+- [Default And Named Exports From The Same Module](https://til.hashrocket.com/posts/xrtndhi1hi-default-and-named-exports-from-the-same-module)
 
 - [Short circuit evaluation](https://www.jstips.co/en/javascript/short-circuit-evaluation-in-js/)
 
@@ -53,6 +57,10 @@ Recursos útiles (fuera del curso):
 - [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 
 - [Looping through JS Objects](https://zellwk.com/blog/looping-through-js-objects/)
+
+- [ES6 variable scopes in loops with closure](https://medium.com/front-end-developers/es6-variable-scopes-in-loops-with-closure-9cde7a198744)
+
+- [Freecodecamp ES6 Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/)
 
 - [BEM for beginners](https://www.smashingmagazine.com/2018/06/bem-for-beginners/)
 
