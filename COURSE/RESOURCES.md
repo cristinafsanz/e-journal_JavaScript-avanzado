@@ -16,6 +16,12 @@ Recursos útiles (encontrados fuera del curso):
 
 - [How to code in JS](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
 
+- [Setting, getting, and removing data attributes](https://plainjs.com/javascript/attributes/setting-getting-and-removing-data-attributes-8/)
+
+- [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
+
+- `Array.filter(Boolean)` to filter null, undefined, and empty strings.
+
 - [Default And Named Exports From The Same Module](https://til.hashrocket.com/posts/xrtndhi1hi-default-and-named-exports-from-the-same-module)
 
 - [every(), filter(), map(), some(), forEach()](https://coderwall.com/p/_ggh2w/the-array-native-every-filter-map-some-foreach-methods)
@@ -26,7 +32,7 @@ Recursos útiles (encontrados fuera del curso):
 
 - [Short circuit evaluation](https://www.jstips.co/en/javascript/short-circuit-evaluation-in-js/)
 
-- [Understanding Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) 
+- [Understanding Reducer](https://css-tricks.com/understanding-the-almighty-reducer/)
 
 - [ES6 Syntax(Tania Rascia)](https://www.taniarascia.com/es6-syntax-and-feature-overview/)
 
@@ -91,7 +97,7 @@ Recursos útiles (encontrados fuera del curso):
   - Optimize multimedia elements
 
     - Vectorial images, no base64 (better png), lazy load: data-src for images, JS indexes the images afterwards.
-  
+
   - Minimize the files
 
   - CSS: More levels, more rendering time. Avoid ids
@@ -103,9 +109,9 @@ Recursos útiles (encontrados fuera del curso):
   - Web workers / Workers service
 
   - Min 20 demo with Chrome console (More tools)
-  
+
     - Performance monitor (CPU usage)
-    
+
     - Rendering
 
     - JavaScript profiler
@@ -124,7 +130,7 @@ Recursos útiles (encontrados fuera del curso):
 
 - Copia superficial y profunda de un array (la profunda no vale para todos los casos):
 
-  - Superficial: 
+  - Superficial:
   ```
   const array2 = array1.slice();
   ```
